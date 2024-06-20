@@ -1,0 +1,25 @@
+{
+  "name": "dreamweaver-2021",
+  "displayName": "DreamWeaver 2021",
+  "description": "A theme to replace DreamWeaver as I knew it.",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git"
+    
+  },
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "DreamWeaver 2021",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DreamWeaver 2021-color-theme.json"
+      }
+    ]
+  }
+}
